@@ -1,4 +1,4 @@
 
 public class Animal {
-	//This is an Animal
+	boolean pet = false;
 }
